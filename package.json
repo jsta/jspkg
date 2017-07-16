@@ -1,5 +1,5 @@
 {
-  "name": "pkg",
+  "name": "jsta",
   "version": "1.0.0",
   "description": "A demo of the steps to create a npm package",
   "main": "index.js",
