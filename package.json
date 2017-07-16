@@ -1,0 +1,20 @@
+{
+  "name": "pkg",
+  "version": "1.0.0",
+  "description": "A demo of the steps to create a npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsta/jspkg.git"
+  },
+  "keywords": [],
+  "author": "jsta",
+  "license": "GPL3",
+  "bugs": {
+    "url": "https://github.com/jsta/jspkg/issues"
+  },
+  "homepage": "https://github.com/jsta/jspkg#readme"
+}
