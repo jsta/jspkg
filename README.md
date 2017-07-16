@@ -6,11 +6,11 @@ A demo of the steps to create a npm package
 
 * set npm configs
 
-        * `npm set init.author.email <>`
+    * `npm set init.author.email <>`
 
-        * `npm set init.author.name "jsta"`
+    * `npm set init.author.name "jsta"`
 
-        * `npm set init.license "GPL3"`
+    * `npm set init.license "GPL3"`
 
 * `git init`
 
